@@ -5,8 +5,8 @@
   <li>Install Flask version 2.0.2</li>
 </ol>
 <p>Features:</p>
-<ol>
-  <ul>Login checker</ul>
-  <ul>Register music albums</ul>
-  <ul>Prevent unauthorized users from accessing the app</ul>
-</ol>
+<ul>
+  <li>Login checker</li>
+  <li>Register music albums</li>
+  <li>Prevent unauthorized users from accessing the app</li>
+</ul>
