@@ -9,4 +9,5 @@
   <li>Login checker</li>
   <li>Register music albums</li>
   <li>Prevent unauthorized users from accessing the app</li>
+  <li>Logout</li>
 </ul>
