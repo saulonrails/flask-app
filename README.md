@@ -1,4 +1,4 @@
-<h4>Flask webapp: prototype one</h4>
+<h4>Flask webapp: Prototype</h4>
 <p>To run this application you’ll need to:</p>
 <ol>
   <li>Create and activate a virtual environment</li>
